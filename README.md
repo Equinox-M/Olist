@@ -31,3 +31,5 @@ documentation/: Includes project documentation files.
 ### Getting Started:
 
 To get started with this project, clone the repository to your local machine and follow the instructions provided in the documentation. Ensure you have the necessary dependencies installed to run the scripts and visualize the dashboard.
+
+<img width="795" alt="Screenshot 2024-04-03 at 6 06 50 PM" src="https://github.com/Equinox-M/Olist/assets/92346639/33472c98-8efc-42c3-89ef-67cd8f0fd2ab">
