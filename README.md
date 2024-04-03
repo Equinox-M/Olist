@@ -19,10 +19,14 @@ Stakeholders, including Olist's leadership, marketing, finance, IT, and e-commer
 
 Repository Structure:
 
-data/: Contains the dataset files
-scripts/: Includes Python scripts for data preprocessing and analysis
-dashboard/: Contains the Power BI dashboard file
-documentation/: Includes project documentation files
+data/: Contains the dataset files.
+
+scripts/: Includes Python scripts for data preprocessing and analysis.
+
+dashboard/: Contains the Power BI dashboard file.
+
+documentation/: Includes project documentation files.
+
 Getting Started:
 
 To get started with this project, clone the repository to your local machine and follow the instructions provided in the documentation. Ensure you have the necessary dependencies installed to run the scripts and visualize the dashboard.
