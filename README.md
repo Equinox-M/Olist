@@ -20,13 +20,10 @@ Stakeholders, including Olist's leadership, marketing, finance, IT, and e-commer
 
 ### Repository Structure:
 
-data/: Contains the dataset files.
+SQL_Olist/: Contains the datasets file and the code for creating the tables in SQL as well as the code for queries.
 
-scripts/: Includes Python scripts for data preprocessing and analysis.
+Dashboard Report/: Contains the Power BI dashboard report.
 
-dashboard/: Contains the Power BI dashboard file.
-
-documentation/: Includes project documentation files.
 
 ### Getting Started:
 
