@@ -25,9 +25,7 @@ SQL_Olist/: Contains the datasets file and the code for creating the tables in S
 Dashboard Report/: Contains the Power BI dashboard report.
 
 
-### Getting Started:
 
-To get started with this project, clone the repository to your local machine and follow the instructions provided in the documentation. Ensure you have the necessary dependencies installed to run the scripts and visualize the dashboard.
 
 <img width="795" alt="Screenshot 2024-04-03 at 6 06 50 PM" src="https://github.com/Equinox-M/Olist/assets/92346639/33472c98-8efc-42c3-89ef-67cd8f0fd2ab">
 <img width="796" alt="Screenshot 2024-04-03 at 6 07 05 PM" src="https://github.com/Equinox-M/Olist/assets/92346639/36d53107-c86a-4d5d-9564-c3119cb7984c">
