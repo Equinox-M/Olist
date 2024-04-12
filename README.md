@@ -1,28 +1,36 @@
-# Olist
-### Overview:
+# Project README
 
-This GitHub repository contains the code and documentation for analyzing the Brazilian E-Commerce Public Dataset from Olist. The dataset comprises 100,000 orders placed between October 2016 and September 2018, offering insights into e-commerce patterns and trends.
+## Overview
 
-### Objective:
+This project focuses on advanced data analysis and visualization using a common dataset. It consists of two main components:
 
-The primary goal of this project is to extract actionable insights from the dataset using data analysis and visualization techniques. Through the analysis, we aim to identify key trends, customer behaviors, and product performance metrics to inform decision-making and drive business growth.
+1. **SQL_Olist:**
+    - This folder contains SQL scripts for data manipulation and schema design.
+    - The SQL code is aimed at preparing the dataset for advanced querying to derive insights.
+    - Files in this folder facilitate data preprocessing and transformation.
 
-### Key Features:
+2. **Dashboard Report:**
+    - This file is a PDF report presenting insights derived from the dataset using PowerBI.
+    - The report showcases various visualizations and analyses conducted on the dataset.
+    - It provides a comprehensive overview of the insights gained from the data.
 
-Data preprocessing and cleaning scripts
-Analysis scripts for customer segmentation, product performance, and geographical trends
-Power BI dashboard for interactive visualization of insights
-Documentation detailing the project objectives, methodology, and findings
+Please note that while both components are based on the same dataset, they were developed separately to address different aspects of analysis and visualization.
 
-### Stakeholders:
+## File Structure
 
-Stakeholders, including Olist's leadership, marketing, finance, IT, and e-commerce teams, can leverage the insights generated from this analysis to optimize product offerings, enhance customer satisfaction, and drive business success.
+- `SQL_Olist/`
+    - `CreateTablesScript.sql`: Contains SQL code for data manipulation.
+    - `ProjectQueries.sql`: Contains SQL code for schema design.
+    - `SQL_REPORT.pdf`: Containes the report of the queries adn the questiones that was answered.
 
-### Repository Structure:
+- `PowerBI_Report.pdf`: PDF report presenting insights from the dataset using PowerBI.
 
-SQL_Olist/: Contains the datasets file and the code for creating the tables in SQL as well as the code for queries.
+## Contributors
 
-Dashboard Report/: Contains the Power BI dashboard report.
+- Mehdi Smail
+
+For any questions or feedback, please contact Mehdi.m.e.smail@gmail.com
+
 
 
 
