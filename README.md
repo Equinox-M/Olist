@@ -23,7 +23,7 @@ Please note that while both components are based on the same dataset, they were 
     - `ProjectQueries.sql`: Contains SQL code for schema design.
     - `SQL_REPORT.pdf`: Containes the report of the queries adn the questiones that was answered.
 
-- `PowerBI_Report.pdf`: PDF report presenting insights from the dataset using PowerBI.
+- `Dashboard Report.pdf`: PDF report presenting insights from the dataset using PowerBI.
 
 ## Contributors
 
